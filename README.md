@@ -1,6 +1,6 @@
 ### Hi, I'm Zachary V. Martin, CC
 
-**ISC2 Certified in Cybersecurity (CC) `#3280732`** | Defensive Network Architecture, Zero-Trust Mesh, SIEM/XDR & Systems Administration  
+**ISC2 Certified in Cybersecurity (CC) `#3280732`(https://www.credly.com/users/zvmartin)** | Defensive Network Architecture, Zero-Trust Overlay Networking, SIEM/XDR & Systems Administration  
 Based in Leamington, ON — transitioning from regulated physical/industrial infrastructure protection into Tier 2/3 network engineering, SOC, and security operations.
 
 #### What I Build & Research
